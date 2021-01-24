@@ -1,0 +1,30 @@
+C:\Users\krdyb\Desktop\New folder\UDP TAPChat\UDP TAPChat\bin\Debug\UDP TAPChat.exe.config
+C:\Users\krdyb\Desktop\New folder\UDP TAPChat\UDP TAPChat\bin\Debug\UDP TAPChat.exe
+C:\Users\krdyb\Desktop\New folder\UDP TAPChat\UDP TAPChat\bin\Debug\UDP TAPChat.pdb
+C:\Users\krdyb\Desktop\New folder\UDP TAPChat\UDP TAPChat\obj\Debug\UDP TAPChat.csprojAssemblyReference.cache
+C:\Users\krdyb\Desktop\New folder\UDP TAPChat\UDP TAPChat\obj\Debug\UDP_TAPChat.Form1.resources
+C:\Users\krdyb\Desktop\New folder\UDP TAPChat\UDP TAPChat\obj\Debug\UDP_TAPChat.Properties.Resources.resources
+C:\Users\krdyb\Desktop\New folder\UDP TAPChat\UDP TAPChat\obj\Debug\UDP TAPChat.csproj.GenerateResource.cache
+C:\Users\krdyb\Desktop\New folder\UDP TAPChat\UDP TAPChat\obj\Debug\UDP TAPChat.csproj.CoreCompileInputs.cache
+C:\Users\krdyb\Desktop\New folder\UDP TAPChat\UDP TAPChat\obj\Debug\UDP TAPChat.exe
+C:\Users\krdyb\Desktop\New folder\UDP TAPChat\UDP TAPChat\obj\Debug\UDP TAPChat.pdb
+C:\Users\krdyb\Desktop\UDPChat\UDP TAPChat\UDP TAPChat\bin\Debug\UDP TAPChat.exe.config
+C:\Users\krdyb\Desktop\UDPChat\UDP TAPChat\UDP TAPChat\bin\Debug\UDP TAPChat.exe
+C:\Users\krdyb\Desktop\UDPChat\UDP TAPChat\UDP TAPChat\bin\Debug\UDP TAPChat.pdb
+C:\Users\krdyb\Desktop\UDPChat\UDP TAPChat\UDP TAPChat\obj\Debug\UDP TAPChat.csprojAssemblyReference.cache
+C:\Users\krdyb\Desktop\UDPChat\UDP TAPChat\UDP TAPChat\obj\Debug\UDP_TAPChat.Form1.resources
+C:\Users\krdyb\Desktop\UDPChat\UDP TAPChat\UDP TAPChat\obj\Debug\UDP_TAPChat.Properties.Resources.resources
+C:\Users\krdyb\Desktop\UDPChat\UDP TAPChat\UDP TAPChat\obj\Debug\UDP TAPChat.csproj.GenerateResource.cache
+C:\Users\krdyb\Desktop\UDPChat\UDP TAPChat\UDP TAPChat\obj\Debug\UDP TAPChat.csproj.CoreCompileInputs.cache
+C:\Users\krdyb\Desktop\UDPChat\UDP TAPChat\UDP TAPChat\obj\Debug\UDP TAPChat.exe
+C:\Users\krdyb\Desktop\UDPChat\UDP TAPChat\UDP TAPChat\obj\Debug\UDP TAPChat.pdb
+C:\Users\krdyb\Desktop\School\cmpe2800\UDP TAPChat\UDP TAPChat\bin\Debug\UDP TAPChat.exe.config
+C:\Users\krdyb\Desktop\School\cmpe2800\UDP TAPChat\UDP TAPChat\bin\Debug\UDP TAPChat.exe
+C:\Users\krdyb\Desktop\School\cmpe2800\UDP TAPChat\UDP TAPChat\bin\Debug\UDP TAPChat.pdb
+C:\Users\krdyb\Desktop\School\cmpe2800\UDP TAPChat\UDP TAPChat\obj\Debug\UDP TAPChat.csprojAssemblyReference.cache
+C:\Users\krdyb\Desktop\School\cmpe2800\UDP TAPChat\UDP TAPChat\obj\Debug\UDP_TAPChat.Form1.resources
+C:\Users\krdyb\Desktop\School\cmpe2800\UDP TAPChat\UDP TAPChat\obj\Debug\UDP_TAPChat.Properties.Resources.resources
+C:\Users\krdyb\Desktop\School\cmpe2800\UDP TAPChat\UDP TAPChat\obj\Debug\UDP TAPChat.csproj.GenerateResource.cache
+C:\Users\krdyb\Desktop\School\cmpe2800\UDP TAPChat\UDP TAPChat\obj\Debug\UDP TAPChat.csproj.CoreCompileInputs.cache
+C:\Users\krdyb\Desktop\School\cmpe2800\UDP TAPChat\UDP TAPChat\obj\Debug\UDP TAPChat.exe
+C:\Users\krdyb\Desktop\School\cmpe2800\UDP TAPChat\UDP TAPChat\obj\Debug\UDP TAPChat.pdb
